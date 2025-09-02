@@ -1,10 +1,10 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, 'Times New Roman', Verdana, sans-serif;
-  margin: 2;
-  padding: 2;
+  margin: 0;
+  padding: 0;
   background: #f7f8fa;
-  color: #000000;
+  color: hwb(185 55% 14%);
   line-height: 1.6;
 }
 
@@ -140,4 +140,3 @@ footer {
 .contact-form button:hover {
   background-color: #005f73;
 }
-
