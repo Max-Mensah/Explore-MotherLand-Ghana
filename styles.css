@@ -8,6 +8,13 @@ body {
   line-height: 1.6;
 }
 
+logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #005f73;
+    margin: 0;
+}
+
 header {
   background-color: #9cc7da;
   box-shadow: 0 4px 12px rgb(116, 203, 237);
@@ -15,13 +22,6 @@ header {
   position: sticky;
   top: 0;
   z-index: 1000;
-}
-
-logo {
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: #005f73;
-    margin: 0;
 }
 
 header .container {
@@ -141,6 +141,7 @@ footer {
 .contact-form button:hover {
   background-color: #005f73;
 }
+
 
 
 
