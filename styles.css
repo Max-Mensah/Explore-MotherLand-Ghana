@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background: #f7f8fa;
-  color: hwb(185 55% 14%);
+  color: black;
   line-height: 1.6;
 }
 
@@ -140,3 +140,4 @@ footer {
 .contact-form button:hover {
   background-color: #005f73;
 }
+
