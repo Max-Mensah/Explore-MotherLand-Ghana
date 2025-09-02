@@ -17,6 +17,13 @@ header {
   z-index: 1000;
 }
 
+logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #005f73;
+    margin: 0;
+}
+
 header .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -134,6 +141,7 @@ footer {
 .contact-form button:hover {
   background-color: #005f73;
 }
+
 
 
 
